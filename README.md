@@ -11,4 +11,7 @@ Bedtime phone usage eroding sleep quality.
 Caffeine analysis reveals dataset limitations
 High sleep deprivation.
 
+<img width="1229" height="403" alt="image" src="https://github.com/user-attachments/assets/b56ac260-60e9-4c46-ad12-a19bc1337d92" />
+
+
 <img width="1255" height="403" alt="image" src="https://github.com/user-attachments/assets/bbe81236-0243-4235-94f9-123fd78937a1" />
